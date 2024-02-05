@@ -1,0 +1,26 @@
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Quiet Attic Films.exe.config
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Quiet Attic Films.exe
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Quiet Attic Films.pdb
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.csproj.AssemblyReference.cache
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Login.resources
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Properties.Resources.resources
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.csproj.GenerateResource.cache
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.exe.licenses
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.csproj.CoreCompileInputs.cache
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.csproj.CopyComplete
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.exe
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.pdb
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Production.resources
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Clients.resources
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Property.resources
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet_Attic_Films.Staff.resources
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Database.mdf
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Database_log.ldf
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Quiet Attic Films.exe.manifest
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\bin\Debug\Quiet Attic Films.application
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.exe.manifest
+C:\Users\sheha\Documents\SE Projects\Quiet Attic Films\obj\Debug\Quiet Attic Films.application
